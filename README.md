@@ -1,6 +1,6 @@
 # Dotfiles
 
-Collection of my personal dotfiles
+These are some of my personal configs from dotfiles.
 
 Includes:
 
